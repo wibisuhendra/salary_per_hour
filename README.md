@@ -1,0 +1,1 @@
+# mekari_salary_per_hour
