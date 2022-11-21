@@ -40,6 +40,7 @@ for timesheet in timesheets_:
     if data_date[0] == YEAR and data_date[1] == MONTH:
         timesheets.append(timesheet)
 
+#check if there is new data
 do = False
 if len(timesheets) != 0:
     do = True
