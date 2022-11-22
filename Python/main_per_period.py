@@ -25,7 +25,7 @@ def read_file(PATH):
 
     return data
 
-#for testing
+#!!!!FOR MANUAL OVERRIDE!!!!
 # MONTH = '08'
 # YEAR = '2019'
 
